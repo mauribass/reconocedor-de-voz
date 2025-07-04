@@ -2,8 +2,9 @@
     Este programa reconoce la voz mediante microfono y transcribe
     de audio a texto desde el momento en que se inicializa el mismo.
     Tiene varias funciones definidas, las cuales se ejecutan
-    si se reconoce una palabra clave, como por ej "reproducir".
+    si se reconoce una palabra clave, como por ej (reproducir).
 """
+
 import pyttsx3
 import speech_recognition as sr
 import pywhatkit
